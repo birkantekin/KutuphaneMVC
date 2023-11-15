@@ -1,0 +1,11 @@
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\bin\Debug\net7.0\Kutuphane.Models.deps.json
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\bin\Debug\net7.0\Kutuphane.Models.dll
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\bin\Debug\net7.0\Kutuphane.Models.pdb
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.AssemblyInfo.cs
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.dll
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\refint\Kutuphane.Models.dll
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\Kutuphane.Models.pdb
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Models\obj\Debug\net7.0\ref\Kutuphane.Models.dll

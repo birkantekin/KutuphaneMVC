@@ -1,0 +1,5 @@
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Repository\obj\Debug\net7.0\Kutuphane.Repository.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Repository\obj\Debug\net7.0\Kutuphane.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Repository\obj\Debug\net7.0\Kutuphane.Repository.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Repository\obj\Debug\net7.0\Kutuphane.Repository.AssemblyInfo.cs
+C:\Users\elif\Downloads\KutuphaneMVC-master\KutuphaneMVC-master\Kutuphane.Repository\obj\Debug\net7.0\Kutuphane.Repository.csproj.CoreCompileInputs.cache
